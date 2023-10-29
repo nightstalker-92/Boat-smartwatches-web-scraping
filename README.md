@@ -1,1 +1,0 @@
-# Boat-smartwatches-web-scraping
